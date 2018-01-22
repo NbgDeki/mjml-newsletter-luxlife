@@ -1,0 +1,299 @@
+<mjml>
+<mj-head>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700"></mj-font>
+        <mj-attributes>
+             <mj-all padding="0" />
+            <mj-class name="over" height="250px" overflow="hidden" />
+            <mj-class name="preheader" margin-top="0" />
+            <mj-class name="inline" display="inline-block" margin="0"/>
+            <mj-class name="preheader-center" font-size="13px" font-family="Roboto, sans-serif" padding="0 10px" font-weight="400" align="center" />
+            <mj-class name="over" height="129px" overflow="hidden" />
+        </mj-attributes>
+        <mj-style inline="inline">
+            span{color:#cfbc8c; font-size:15px;}
+            a { text-decoration: none; color: #f3ac3f; font-weight: 400; margin:0; padding:0; }
+            p {margin-bottom: 11px; color: #fff; font-weight: 300; margin-top: 0; }
+            h6 {font-family:Roboto, sans-serif; font-weight:300; align:left; padding-left:0px; margin: 0; padding-right:5px;  font-size:18px; color:#cfbc8c; text-transform: uppercase;}
+        </mj-style>
+    </mj-head>
+  <mj-body background-color="#000">
+   
+    <mj-container background-color="#000" width="728px">
+
+      <mj-section padding-bottom="0">
+        <mj-column>
+        <mj-image padding-right="0px" padding-left="0px" padding-bottom="22px" href="https://www.luxlife.rs" src="https://www.muskimagazin.rs/thm/mm/img/test/header.jpg"></mj-image>
+        </mj-column> 
+      </mj-section>
+
+      <mj-section padding-top="0" border-bottom="1px solid #656565">
+      <mj-column width="55%">
+        <mj-image mj-class="hidden" width="403px" padding-top="0" padding-bottom="0px" padding-left="10px" padding-right="10px" height="250px" href="https://www.luxlife.rs/trend/fancy/od-poznatih-za-poznate-15-najskupljih-i-najneverovatnijih-poklona" src="https://ministudio.rs/test/newsletter/1.jpg"></mj-image>
+        
+        <mj-text padding-top="11px" padding-bottom="11px" padding-left="10px"><h6>Od save do neba</h6></mj-text>
+        
+        <mj-text font-family="Roboto, sans-serif" align="left" padding-left="10px" padding-right="5px"  font-size="14px" padding-bottom="11px"> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum ornare nisl eget pellentesque. Aliquam sapien lacus, sagittis at ultricies vitae, dignissim rhoncus nulla.</p></mj-text>
+      </mj-column>
+      
+     
+
+        <mj-column width="45%">
+        <mj-image height="250px" width="300px" padding-bottom="10px" padding-top="0" padding-left="10px" padding-right="10px" href="http://www.pggrupa.rs/shop/satovi/tag-heuer/muski-satovi" src="https://ministudio.rs/test/newsletter/2.jpg"></mj-image>
+        
+        
+
+        <mj-table padding-top="" line-height="100%">
+            <tr style="">
+              
+              <td style="padding: 30px 0 30px 0; text-align:right;"><a href="https://www.facebook.com/luxlife.rs" target="_blank"><img src="https://www.muskimagazin.rs/thm/mm/img/test/facebook.png" style="width: 50px;" ></img></a>
+              </td>
+              
+              <td style="padding: 30px 0 30px 0; text-align:center;"><a href="https://www.instagram.com" target="_blank"><img src="https://www.muskimagazin.rs/thm/mm/img/test/instagram.png" style="width: 50px;"></img></a></td>
+              
+              <td style="padding: 30px 0 30px 0; text-align:left;"><a href="https://www.luxlife.rs/rss" target="_blank"><img src="https://www.muskimagazin.rs/thm/mm/img/test/rss.png" style="width: 50px;"></img></a></td>
+            </tr>
+        </mj-table>
+        
+        </mj-column>
+
+        </mj-section>
+      
+      
+      <mj-section padding="22px 0 0px 0">
+
+
+        <mj-column width="50%">
+            <mj-image padding-left="10px" padding-right="10px" href="#" src="https://ministudio.rs/test/newsletter/sto.jpg" width="320px"></mj-image>
+            <mj-text padding-top="11px" padding-bottom="11px" padding-left="25px"><h6>Od save do neba</h6></mj-text>
+        
+        <mj-text font-family="Roboto, sans-serif"  align="left" padding-left="25px" padding-right="15px"  font-size="14px" padding-bottom="0px"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum ornare nisl eget pellentesque. Aliquam sapien lacus, sagittis at ultricies vitae, dignissim rhoncus nulla.</p></mj-text>
+        <mj-button font-family="Roboto, sans-serif" href="https://fonts.google.com/" font-size="14px" padding-bottom="44px" inner-padding="0" padding-right="22px" width="100px" height="22px" border-radius="0px" align="right" background-color="#000" color="#cfbc8c">
+            Pročitaj više...
+        </mj-button>
+        </mj-column>
+
+
+
+        <mj-column width="50%">
+            <mj-image  padding-left="10px" padding-right="10px" href="#" src="https://ministudio.rs/test/newsletter/penkalo.jpg" width="320px"></mj-image>
+            <mj-text padding-top="11px" padding-bottom="11px" padding-left="25px"><h6>Od save do neba</h6></mj-text>
+        
+        <mj-text font-family="Roboto, sans-serif"  align="left" padding-left="25px" padding-right="15px"  font-size="14px" padding-bottom="0px"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum ornare nisl eget pellentesque. Aliquam sapien lacus, sagittis at ultricies vitae, dignissim rhoncus nulla.</p></mj-text>
+        <mj-button font-family="Roboto, sans-serif" href="https://fonts.google.com/" font-size="14px" padding-bottom="44px" inner-padding="0" padding-right="22px" width="100px" height="22px" border-radius="0px" align="right" background-color="#000" color="#cfbc8c">
+            Pročitaj više...
+        </mj-button>
+        </mj-column>
+
+
+      </mj-section>
+
+      <mj-section padding="0px 0 0px 0">
+
+
+        <mj-column width="50%">
+            <mj-image  padding-left="10px" padding-right="10px" href="#" src="https://ministudio.rs/test/newsletter/sto.jpg" width="320px"></mj-image>
+            <mj-text padding-top="11px" padding-bottom="11px" padding-left="25px"><h6>Od save do neba</h6></mj-text>
+        
+        <mj-text font-family="Roboto, sans-serif"  align="left" padding-left="25px" padding-right="15px"  font-size="14px" padding-bottom="0px"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum ornare nisl eget pellentesque. Aliquam sapien lacus, sagittis at ultricies vitae, dignissim rhoncus nulla.</p></mj-text>
+        <mj-button font-family="Roboto, sans-serif" href="https://fonts.google.com/" font-size="14px" padding-bottom="44px" inner-padding="0" padding-right="22px" width="100px" height="22px" border-radius="0px" align="right" background-color="#000" color="#cfbc8c">
+            Pročitaj više...
+        </mj-button>
+        </mj-column>
+
+
+
+        <mj-column width="50%">
+            <mj-image padding-left="10px" padding-right="10px" href="#" src="https://ministudio.rs/test/newsletter/penkalo.jpg" width="320px"></mj-image>
+            <mj-text padding-top="11px" padding-bottom="11px" padding-left="25px"><h6>Od save do neba</h6></mj-text>
+        
+        <mj-text font-family="Roboto, sans-serif"  align="left" padding-left="25px" padding-right="15px"  font-size="14px" padding-bottom="0px"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum ornare nisl eget pellentesque. Aliquam sapien lacus, sagittis at ultricies vitae, dignissim rhoncus nulla.</p></mj-text>
+        <mj-button font-family="Roboto, sans-serif" href="https://fonts.google.com/" font-size="14px" padding-bottom="44px" inner-padding="0" padding-right="22px" width="100px" height="22px" border-radius="0px" align="right" background-color="#000" color="#cfbc8c">
+            Pročitaj više...
+        </mj-button>
+        </mj-column>
+
+
+      </mj-section>
+
+      <mj-section padding="0px 0 0px 0">
+
+
+        <mj-column width="50%">
+            <mj-image padding-left="10px" padding-right="10px" href="#" src="https://ministudio.rs/test/newsletter/sto.jpg" width="320px"></mj-image>
+            <mj-text padding-top="11px" padding-bottom="11px" padding-left="25px"><h6>Od save do neba</h6></mj-text>
+        
+        <mj-text font-family="Roboto, sans-serif"  align="left" padding-left="25px" padding-right="15px"  font-size="14px" padding-bottom="0px"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum ornare nisl eget pellentesque. Aliquam sapien lacus, sagittis at ultricies vitae, dignissim rhoncus nulla.</p></mj-text>
+        <mj-button font-family="Roboto, sans-serif" href="https://fonts.google.com/" font-size="14px" padding-bottom="44px" inner-padding="0" padding-right="22px" width="100px" height="22px" border-radius="0px" align="right" background-color="#000" color="#cfbc8c">
+            Pročitaj više...
+        </mj-button>
+        </mj-column>
+
+
+
+        <mj-column width="50%">
+            <mj-image padding-left="10px" padding-right="10px" href="#" src="https://ministudio.rs/test/newsletter/penkalo.jpg" width="320px"></mj-image>
+            <mj-text padding-top="11px" padding-bottom="11px" padding-left="25px"><h6>Od save do neba</h6></mj-text>
+        
+        <mj-text font-family="Roboto, sans-serif"  align="left" padding-left="25px" padding-right="15px"  font-size="14px" padding-bottom="0px"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum ornare nisl eget pellentesque. Aliquam sapien lacus, sagittis at ultricies vitae, dignissim rhoncus nulla.</p></mj-text>
+        <mj-button font-family="Roboto, sans-serif" href="https://fonts.google.com/" font-size="14px" padding-bottom="44px" inner-padding="0" padding-right="22px" width="100px" height="22px" border-radius="0px" align="right" background-color="#000" color="#cfbc8c">
+            Pročitaj više...
+        </mj-button>
+        </mj-column>
+
+
+      </mj-section>
+
+
+      /*prvi baner*/
+      <mj-section padding="0 0 44px 0">
+        <mj-column>
+        <mj-image padding-right="0px" padding-left="0px" padding-bottom="0px" href="https://www.luxlife.rs/lifestyle/spa-centri/glamurozni-marconio-novogodisnji-aranzman" src="https://www.muskimagazin.rs/thm/mm/img/test/beograd-baner.jpg"></mj-image>
+        </mj-column> 
+      </mj-section>
+
+      <mj-section padding="0px 0 0px 0">
+
+
+        <mj-column width="50%">
+            <mj-image padding-left="10px" padding-right="10px" href="#" src="https://ministudio.rs/test/newsletter/sto.jpg" width="320px"></mj-image>
+           <mj-text padding-top="11px" padding-bottom="11px" padding-left="25px"><h6>Od save do neba</h6></mj-text>
+        
+        <mj-text font-family="Roboto, sans-serif"  align="left" padding-left="25px" padding-right="15px"  font-size="14px" padding-bottom="0px"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum ornare nisl eget pellentesque. Aliquam sapien lacus, sagittis at ultricies vitae, dignissim rhoncus nulla.</p></mj-text>
+        <mj-button font-family="Roboto, sans-serif" href="https://fonts.google.com/" font-size="14px" padding-bottom="44px" inner-padding="0" padding-right="22px" width="100px" height="22px" border-radius="0px" align="right" background-color="#000" color="#cfbc8c">
+            Pročitaj više...
+        </mj-button>
+        </mj-column>
+
+
+
+        <mj-column width="50%">
+            <mj-image padding-left="10px" padding-right="10px" href="#" src="https://ministudio.rs/test/newsletter/penkalo.jpg" width="320px"></mj-image>
+            <mj-text padding-top="11px" padding-bottom="11px" padding-left="25px"><h6>Od save do neba</h6></mj-text>
+        
+        <mj-text font-family="Roboto, sans-serif"  align="left" padding-left="25px" padding-right="15px"  font-size="14px" padding-bottom="0px"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum ornare nisl eget pellentesque. Aliquam sapien lacus, sagittis at ultricies vitae, dignissim rhoncus nulla.</p></mj-text>
+        <mj-button font-family="Roboto, sans-serif" href="https://fonts.google.com/" font-size="14px" padding-bottom="44px" inner-padding="0" padding-right="22px" width="100px" height="22px" border-radius="0px" align="right" background-color="#000" color="#cfbc8c">
+            Pročitaj više...
+        </mj-button>
+        </mj-column>
+
+
+      </mj-section>
+
+      <mj-section padding="0px 0 0px 0">
+
+
+        <mj-column width="50%">
+            <mj-image padding-left="10px" padding-right="10px" href="#" src="https://ministudio.rs/test/newsletter/sto.jpg" width="320px"></mj-image>
+           <mj-text padding-top="11px" padding-bottom="11px" padding-left="25px"><h6>Od save do neba</h6></mj-text>
+        
+        <mj-text font-family="Roboto, sans-serif"  align="left" padding-left="25px" padding-right="15px"  font-size="14px" padding-bottom="0px"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum ornare nisl eget pellentesque. Aliquam sapien lacus, sagittis at ultricies vitae, dignissim rhoncus nulla.</p></mj-text>
+        <mj-button font-family="Roboto, sans-serif" href="https://fonts.google.com/" font-size="14px" padding-bottom="44px" inner-padding="0" padding-right="22px" width="100px" height="22px" border-radius="0px" align="right" background-color="#000" color="#cfbc8c">
+            Pročitaj više...
+        </mj-button>
+        </mj-column>
+
+
+
+        <mj-column width="50%">
+            <mj-image padding-left="10px" padding-right="10px" href="#" src="https://ministudio.rs/test/newsletter/penkalo.jpg" width="320px"></mj-image>
+            <mj-text padding-top="11px" padding-bottom="11px" padding-left="25px"><h6>Od save do neba</h6></mj-text>
+        
+        <mj-text font-family="Roboto, sans-serif"  align="left" padding-left="25px" padding-right="15px"  font-size="14px" padding-bottom="0px"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum ornare nisl eget pellentesque. Aliquam sapien lacus, sagittis at ultricies vitae, dignissim rhoncus nulla.</p></mj-text>
+        <mj-button font-family="Roboto, sans-serif" href="https://fonts.google.com/" font-size="14px" padding-bottom="44px" inner-padding="0" padding-right="22px" width="100px" height="22px" border-radius="0px" align="right" background-color="#000" color="#cfbc8c">
+            Pročitaj više...
+        </mj-button>
+        </mj-column>
+
+
+      </mj-section>
+
+      /*drugi baner*/
+      <mj-section padding="0 0 44px 0">
+        <mj-column>
+        <mj-image padding-right="0px" padding-left="0px" padding-bottom="0px" href="https://www.luxlife.rs/lifestyle/spa-centri/glamurozni-marconio-novogodisnji-aranzman" src="https://www.muskimagazin.rs/thm/mm/img/test/polydec.jpg"></mj-image>
+        </mj-column> 
+      </mj-section>
+      
+
+      <mj-section padding="0px 0 0px 0">
+
+
+        <mj-column width="50%">
+            <mj-image padding-left="10px" padding-right="10px" href="#" src="https://ministudio.rs/test/newsletter/sto.jpg" width="320px"></mj-image>
+            <mj-text padding-top="11px" padding-bottom="11px" padding-left="25px"><h6>Od save do neba</h6></mj-text>
+        
+        <mj-text font-family="Roboto, sans-serif"  align="left" padding-left="25px" padding-right="15px"  font-size="14px" padding-bottom="0px"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum ornare nisl eget pellentesque. Aliquam sapien lacus, sagittis at ultricies vitae, dignissim rhoncus nulla.</p></mj-text>
+        <mj-button font-family="Roboto, sans-serif" href="https://fonts.google.com/" font-size="14px" padding-bottom="44px" inner-padding="0" padding-right="22px" width="100px" height="22px" border-radius="0px" align="right" background-color="#000" color="#cfbc8c">
+            Pročitaj više...
+        </mj-button>
+        </mj-column>
+
+
+
+        <mj-column width="50%">
+            <mj-image padding-left="10px" padding-right="10px" href="#" src="https://ministudio.rs/test/newsletter/penkalo.jpg" width="320px"></mj-image>
+           <mj-text padding-top="11px" padding-bottom="11px" padding-left="25px"><h6>Od save do neba</h6></mj-text>
+        
+        <mj-text font-family="Roboto, sans-serif"  align="left" padding-left="25px" padding-right="15px"  font-size="14px" padding-bottom="0px"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum ornare nisl eget pellentesque. Aliquam sapien lacus, sagittis at ultricies vitae, dignissim rhoncus nulla.</p></mj-text>
+        <mj-button font-family="Roboto, sans-serif" href="https://fonts.google.com/" font-size="14px" padding-bottom="44px" inner-padding="0" padding-right="22px" width="100px" height="22px" border-radius="0px" align="right" background-color="#000" color="#cfbc8c">
+            Pročitaj više...
+        </mj-button>
+        </mj-column>
+
+
+      </mj-section>
+
+
+
+      <mj-section padding-bottom="0" padding-top="0px">
+        
+        <mj-column>
+        <mj-image padding-right="0px" padding-left="0px" padding-bottom="0px" href="https://www.luxlife.rs/" src="https://www.muskimagazin.rs/thm/mm/img/test/ll_nsl_boot.jpg"></mj-image>
+        </mj-column>
+
+        
+
+        
+           
+      </mj-section>
+
+      <mj-section>
+
+      <mj-column>
+
+      <mj-text mj-class="preheader" font-family="Roboto, sans-serif" font-weight="300" align="left" padding-left="5px" padding-right="5px"  font-size="14px" color="#999">
+      <p margin-top="0">Dobili ste ovu poruku jer ste se prijavili za nju na sajtu <a href="https://www.luxlife.rs/" text-decoration="underline" target="_blank"><span>https://www.luxlife.rs</span></a>. Da biste se odjavili sa mejling liste sajta Lux Life luksuzni portal: Moda, Stil, Trendovi, Kolekcije 2016..., kliknite <a href="https://www.luxlife.rs/newsletter/odjava/38061.21c800eab650035eb82af538d6d449f9" text-decoration="underline" target="_blank"><span>OVDE</span></a></p>
+      </mj-text>
+
+      </mj-column>
+
+      </mj-section>
+
+      </mj-section>
+
+      <mj-section>
+
+      <mj-column>
+
+      <mj-text mj-class="preheader" font-family="Roboto, sans-serif" font-weight="300" align="left" padding-left="5px" padding-right="5px"  font-size="14px" color="#999">
+      <p margin-top="0">You have recived this message because you subscribed to it on <a href="https://www.luxlife.rs/" text-decoration="underline" target="_blank"><span>https://www.luxlife.rs</span></a>. To stop reciving this and other messages from Lux Life luksuzni portal: Moda, Stil, Trendovi, Kolekcije 2016..., click <a href="https://www.luxlife.rs/newsletter/odjava/38061.21c800eab650035eb82af538d6d449f9" text-decoration="underline" target="_blank"><span>HERE</span></a></p>
+      </mj-text>
+
+      </mj-column>
+
+      </mj-section>
+      
+      
+
+      
+
+
+
+      
+      
+      
+      
+      
+    </mj-container>
+  </mj-body>
+</mjml>
